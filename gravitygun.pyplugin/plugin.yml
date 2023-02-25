@@ -1,0 +1,14 @@
+name: GravityGun
+main: GravityGunPlugin
+version: 0.0.1
+
+author: MeekOnGithub
+description: Tu veux un gravity gun sur minecraft sans mods ? Le voici :)
+
+commands:
+  givegravitygun:
+    description: Te permet d'avoir le gravity gun
+    usage: /givegravitygun
+
+permissions:
+  None
